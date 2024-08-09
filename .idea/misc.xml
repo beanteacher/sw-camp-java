@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/chap03-method-api-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap04-control-flow-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap05-array-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap06-class-and-object-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap07-inheritance-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap08-polymorphism-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap09-api-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap10-exception-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap11-io-lecture-soruce" />
+    <file type="web" url="file://$PROJECT_DIR$/chap12-generics-lecture-source" />
+    <file type="web" url="file://$PROJECT_DIR$/chap13-collection-lecture-source" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
